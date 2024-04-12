@@ -1,3 +1,3 @@
 # Bentasell
 
-An e-commerce application developed using React.js
+A inventory/warehouse management system application developed using React.js

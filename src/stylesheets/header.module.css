@@ -1,0 +1,16 @@
+.header {
+  background-color: rgb(53, 124, 255);
+  height: 50px;
+  padding: 20px;
+  text-align: left;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(168, 223, 255);
+}
+
+.headerTitle {
+  padding-left: 0px;
+  padding-bottom: 0px;
+}
