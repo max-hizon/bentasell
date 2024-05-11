@@ -1,0 +1,16 @@
+body {
+  margin: 30px 10px;
+}
+.navBar {
+  display: inline-flex;
+  align-items: center;
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.sortContent {
+  display: inline-flex;
+  gap: 12px;
+  float: right;
+  align-items: center;
+}
